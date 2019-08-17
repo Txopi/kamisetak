@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1134"
+   height="1700"
+   viewBox="0 0 300.03749 449.79166"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="36-taloa.svg"
+   inkscape:export-filename="/home/txopi/Dokumentuak/irudiak/LaPiKo/kamisetak/Ez-dago-hodeirik/Ez dago hodeirik2.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#262d36"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.68783069"
+     inkscape:cx="432.51923"
+     inkscape:cy="1198.9231"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1299"
+     inkscape:window-height="713"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="true"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-24.982666,247.32069)">
+    <path
+       style="fill:#ffe33a;fill-opacity:0.97156399;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 146.53473,-200.21926 c 46.19032,-21.45482 117.38616,8.05012 116.84683,68.6181 -0.53933,60.567978 -41.8441,86.823402 -87.04697,87.439068 -45.20286,0.615666 -78.55474,-35.99842 -78.812787,-71.362818 -0.258047,-35.3644 2.822607,-63.23953 49.012927,-84.69435 z"
+       id="path818"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzzzz" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:19.04999924px;line-height:1;font-family:Asimov;-inkscape-font-specification:'Asimov Medium Italic';text-align:center;letter-spacing:0.7601642px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.7256456"
+       x="201.82289"
+       y="-105.9799"
+       id="text822"
+       transform="rotate(-10.339027)"><tspan
+         sodipodi:role="line"
+         id="tspan820"
+         x="202.20297"
+         y="-105.9799"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Journal;-inkscape-font-specification:Journal;letter-spacing:0.7601642px;stroke-width:0.7256456">Ezin duzu</tspan><tspan
+         sodipodi:role="line"
+         x="202.20297"
+         y="-86.286316"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Journal;-inkscape-font-specification:Journal;letter-spacing:0.7601642px;stroke-width:0.7256456"
+         id="tspan824">guztien gustukoa izan,</tspan><tspan
+         sodipodi:role="line"
+         x="202.20297"
+         y="-66.592735"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Journal;-inkscape-font-specification:Journal;letter-spacing:0.7601642px;stroke-width:0.7256456"
+         id="tspan826">ez zara talo bat.</tspan></text>
+    <rect
+       style="opacity:1;fill:#ffe33a;fill-opacity:0;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect828"
+       width="180.08574"
+       height="175.85838"
+       x="90.084091"
+       y="-212.65628"
+       inkscape:export-xdpi="200.04166"
+       inkscape:export-ydpi="200.04166" />
+  </g>
+</svg>
