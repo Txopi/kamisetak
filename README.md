@@ -24,9 +24,9 @@ Zure ekarpenak egin nahi badituzu, aurrera mesedez. Biltegi hau diseinatzaile, m
 
 Hori bai, ziurtatu zaitez bidaltzen diguzun fitxategi guztien egile eskubideak dituzula edo eskubideon jabeak biltegi honetan eta baldintza hauetan argitaratzea onartzen duela. Zalantzarik baduzu, logotipo, argazki edo dena delakoaren egileari galdetu eta, posible bada, erabilera honetarako onarpen idatzia eskatu. Edukiek arazorik ez badute, biltegi erabilgarriagoa osatuko dugu denon artean. Eskerrik asko!
 
-Ezinbestekoa ez bada ere, eduki libre hauek sortzeko, programa eta aplikazio libreak erabiltzea gomendatzen dizugu (Adobe Photoshop-en eta Illustrator-ren ordez, GIMP, Inkscape eta antzekoak). Igotzen dituzun fitxategiak ere formatu irekietan egotea gomendatzen dizugu (PSD eta AI fitxategien ordez, SVG eta antzekoak). Eskerrik asko!
+Ezinbestekoa ez bada ere, eduki libre hauek sortzeko, programa eta aplikazio libreak erabiltzea gomendatzen dizugu (Adobe Photoshop-en eta Illustrator-ren ordez, GIMP, Inkscape eta antzekoak). Igotzen dituzun fitxategiak ere formatu irekietan egotea gomendatzen dizugu (PSD eta AI fitxategien ordez, XCF, SVG eta antzekoak). Eskerrik asko!
 
-Horrela nahiko bazenu, software jabedunekin sortutako copyright-dun irudiak sor ditzakezu (info.txt fitxategian "Copyright" lizentzia adierazi), baina horrek zure ekarpenen zabalkundea mugatuko duela ohartarazten dizugu.
+Horrela nahiko bazenu, software jabedunekin sortutako copyright-dun irudiak sor ditzakezu (info.txt fitxategian "Copyright" lizentzia adierazi), baina horrek zure ekarpenen zabalkundea mugatuko duela ohartarazten dizugu (zuri baimena eskatu eta zuk baiezkoa eman ezean, inork ez du zure diseinua erabiliko).
 
 Ekarpenak egiteko, webgune honetan "Pull request" bat egin dezakezu edo fitxategiak epostaz bidal ditzakezu guk argitaratzeko: sasiburu@gmail.com
 
@@ -37,9 +37,9 @@ Biltegiko diseinuen parte-hartzaileen zerrenda:
 
 Diseinu hauekin kamisetak eta antzeko materialak sortzeko, zure gogoko serigrafia batera jotzea besterik ez duzu. Zure gogoko diseinua librea bada (adibidez CC0 1.0 lizentzia badu), librea zara moldatzeko edo dagoen bezala nahi beste kopia egiteko. Euskarazko diseinu hauek soinean eramanez, paisaia linguistikoa euskalduntzen lagunduko duzu. Eskerrik asko!   
 
-Kamiseta bakarra nahi baduzu, agian [Sasiburuk prestatu duen DENDA](https://www.latostadora.com/sasiburu/) erabiltzea nahiago izango duzu. Hautazkoa da, baina erabiltzen baduzu, gogoan izan erosten duzun kamiseta bakoitzeko 1,5 €rekin lagunduko duzula Sasiburu elkartea. Eskerrak aurretiaz ematen dizugu erosketaren bat egiten baduzu.
+Kamiseta bakarra nahi baduzu, agian [Sasiburuk prestatu duen DENDA](https://www.latostadora.com/sasiburu/) erabiltzea nahiago izango duzu. Hautazkoa da, baina erabiltzen baduzu, gogoan izan erosten duzun kamiseta bakoitzeko 1,5 €rekin lagunduko duzula Sasiburu elkartea. Eskerrak aurretiaz ematen dizkizugu erosketaren bat egiten baduzu.
 
-Diseinu interesgarriren bat bururatu bazaizu, zuk zeuk sortu edo lagun bati sortzeko eskatu. Guri bidali nahi badiguzu biltegira gehi dezagun, asko eskertuko dizugu!
+Diseinu interesgarriren bat bururatu bazaizu, zuk zeuk sortu edo lagun bati sortzeko eskatu. Guri bidali nahi badiguzu biltegira beste diseinu libre bat gehi dezagun, asko eskertuko dizugu!
 
 ##### Beste denda batzuk
 
