@@ -29,9 +29,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.62588235"
-     inkscape:cx="537.03693"
-     inkscape:cy="1297.3684"
+     inkscape:zoom="0.31294118"
+     inkscape:cx="567"
+     inkscape:cy="850"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -54,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -64,51 +64,14 @@
      id="layer1"
      transform="translate(-24.982666,247.32069)">
     <rect
-       style="opacity:1;fill:none;fill-opacity:0.0857143;stroke:none;stroke-width:2.72985077;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:none;fill-opacity:0.0857143;stroke:none;stroke-width:2.59068918;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect516"
-       width="212.73659"
+       width="191.59976"
        height="112.32401"
-       x="62.610256"
+       x="83.747086"
        y="-182.9447"
        inkscape:export-xdpi="199.91031"
        inkscape:export-ydpi="199.91031" />
-    <g
-       id="g856">
-      <text
-         transform="translate(0,-1.0583333)"
-         id="text824"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:end;letter-spacing:2.69041204px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.39857954"
-         xml:space="preserve"><textPath
-           id="textPath828"
-           startOffset="100%"
-           xlink:href="#path826"><tspan
-   id="tspan822"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff;stroke-width:0.39857954">gustuko  lekuan  aldaparik  ez ...</tspan></textPath></text>
-      <path
-         sodipodi:nodetypes="cc"
-         inkscape:connector-curvature="0"
-         id="path816"
-         d="m 73.211389,-92.199946 c 0,0 24.310409,-2.744717 43.131371,12.155203"
-         style="fill:none;stroke:#ffff79;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="cccccccc"
-         inkscape:connector-curvature="0"
-         id="path818"
-         d="m 98.780661,-89.248859 30.501519,-28.045701 c 3.08524,-2.9511 3.46769,-6.18905 5.09735,-6.66576 7.31926,-1.3415 14.63853,-10.19469 21.95779,-15.29203 3.47029,-2.36152 8.4434,-2.36853 11.38132,1.98115 3.13682,5.09735 14.1054,16.05561 14.1054,16.05561 5.92147,6.39777 7.26077,8.34339 8.62628,10.19468 0,0 7.4706,9.8645 12.54731,14.115727"
-         style="fill:none;stroke:#ffff79;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="csccc"
-         inkscape:connector-curvature="0"
-         id="path820"
-         d="m 179.61278,-123.81157 c 14.94979,-16.62168 19.49781,-12.15369 32.26604,-1.3239 9.97832,8.46344 14.35653,13.93237 16.4619,16.4619 13.79796,15.973464 19.8579,23.422431 25.74772,22.445861 6.42202,-1.26137 8.3259,-1.26845 10.42587,-1.37182"
-         style="fill:none;stroke:#ffff79;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="csscccsc"
-         inkscape:connector-curvature="0"
-         id="path826"
-         d="m 98.874465,-93.167146 c 10.041555,-10.021834 27.587495,-23.809984 29.385285,-27.633034 4.11385,-8.74818 5.3273,-4.45704 10.33709,-7.83258 5.64358,-3.80257 12.7867,-10.41996 16.90053,-13.25779 4.04446,-2.93552 10.13249,-2.29214 12.62274,0.92723 4.10571,4.91855 8.07763,10.49818 11.68557,12.83923 13.34384,-12.47071 17.69048,-13.34961 34.05144,0.63856 12.51367,10.69885 32.16721,35.237744 32.16721,35.237744"
-         style="fill:none;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    </g>
     <ellipse
        style="opacity:1;fill:#ffff51;fill-opacity:1;stroke:none;stroke-width:0.20624961;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path831"
@@ -116,5 +79,41 @@
        cy="-168.86574"
        rx="12.380873"
        ry="12.642439" />
+    <g
+       id="g903"
+       transform="translate(35.20339,-91.391888)">
+      <text
+         id="text865"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:end;letter-spacing:2.3812499px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.39857954"
+         xml:space="preserve"><textPath
+           id="textPath867"
+           startOffset="100%"
+           xlink:href="#path832"><tspan
+   style="letter-spacing:2.3812499px"
+   x="99.128677"
+   y="-45.639221"
+   id="tspan849">gustuko <tspan
+   style="letter-spacing:2.3812499px"
+   x="103.28533"
+   id="tspan855">lekuan   aldaparik ez ...       </tspan></tspan></textPath></text>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path825"
+         d="M 52.037803,9.5560772 C 113.33664,-74.876857 113.33664,-75.268978 176.7267,9.5560761"
+         style="fill:none;stroke:#ffff79;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0"
+         id="path829"
+         d="m 144.40939,-32.419682 c 7.60444,-8.567158 17.88232,-21.465689 30.04287,-21.495987 15.52958,-0.03869 31.43363,21.059218 63.12866,63.4717451"
+         style="fill:none;stroke:#ffff79;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path832"
+         d="m 52.037804,1.089407 c 40.854908,-53.813485 57.788946,-80.764772 92.371586,-38.800759 14.45642,-16.078611 22.79813,-19.975832 30.64035,-19.878666 19.92572,0.177783 42.22822,34.43949 62.53118,59.2085917"
+         style="fill:none;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
   </g>
 </svg>
