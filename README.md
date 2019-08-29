@@ -1,6 +1,8 @@
 # Euskal kamiseten diseinu libreak
 Biltegi ireki eta parte-hartzaile honetan, **euskaraz edo euskal kulturarekin lotutako kamiseten eta antzeko materialen diseinuak** aurki ditzakezu. Ekimen honen sortzailea Barakaldoko Sasiburu elkartea da, baina euskaldun orori zabalik dago eta ekarpenak jasotzeko prest.
 
+![bannerra](bannerra/bannerra.jpg)
+
 Bilatzen ditugun gaiak eta estiloak:
 - Diseinu modernoak, klasikoak, umoretsuak, apurtzaileak edota folklorikoak.
 - Testuak, marrazkiak edota argazkiak dituztenak.
