@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1134"
-   height="1700"
-   viewBox="0 0 300.03749 449.79166"
+   width="822.49097"
+   height="481.63885"
+   viewBox="0 0 217.61739 127.43361"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
@@ -21,17 +21,58 @@
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
-     id="defs2" />
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient864">
+      <stop
+         style="stop-color:#ff7c00;stop-opacity:1"
+         offset="0"
+         id="stop860" />
+      <stop
+         style="stop-color:#ffcb00;stop-opacity:1"
+         offset="1"
+         id="stop862" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient864"
+       id="linearGradient866"
+       x1="189.77028"
+       y1="-159.23276"
+       x2="175.9245"
+       y2="-166.40683"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient864"
+       id="linearGradient874"
+       x1="189.27493"
+       y1="-187.108"
+       x2="175.4902"
+       y2="-193.25722"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient864"
+       id="linearGradient941"
+       gradientUnits="userSpaceOnUse"
+       x1="189.27493"
+       y1="-187.108"
+       x2="175.4902"
+       y2="-193.25722"
+       gradientTransform="translate(0,55.033337)" />
+  </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#f9ff86"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.67477942"
-     inkscape:cx="567.69466"
-     inkscape:cy="1324.229"
+     inkscape:zoom="0.31294118"
+     inkscape:cx="417.32146"
+     inkscape:cy="-285.18582"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -62,63 +103,7 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-24.982666,247.32069)">
-    <path
-       style="fill:none;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.50236966"
-       d="m 84.582388,-151.99054 c 31.289122,-15.38873 70.925652,-16.63671 97.241652,-0.3921 26.316,16.24461 67.83667,14.35304 95.67324,0"
-       id="path32"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="czc" />
-    <text
-       id="text841"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.36557388px;line-height:1.25;font-family:'Odin Rounded';-inkscape-font-specification:'Odin Rounded';text-align:center;letter-spacing:5.13104534px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.76015484"
-       xml:space="preserve"><textPath
-         xlink:href="#path32"
-         startOffset="50%"
-         id="textPath843"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Corpulent Caps BRK';-inkscape-font-specification:'Corpulent Caps BRK';stroke-width:0.76015484"><tspan
-           style="fill:#ff6600"
-           id="tspan860">SIGI</tspan><tspan
-           style="fill:#ffffff"
-           id="tspan868">-</tspan><tspan
-           style="fill:#ff0000"
-           id="tspan862">SAGA</tspan></textPath></text>
-    <path
-       style="fill:none;stroke:#ffffec;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 80.260406,-177.12663 c 29.829794,-15.97246 72.912704,-16.39054 101.563634,-2.77273 28.65093,13.61781 54.26488,16.25017 87.64691,3.9402"
-       id="path848"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="czc" />
-    <path
-       sodipodi:nodetypes="czc"
-       inkscape:connector-curvature="0"
-       id="path850"
-       d="m 80.260406,-143.25993 c 29.829794,-15.97246 72.912704,-16.39054 101.563634,-2.77273 28.65093,13.61781 54.26488,16.25017 87.64691,3.9402"
-       style="fill:none;stroke:#ffffec;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       sodipodi:nodetypes="czc"
-       inkscape:connector-curvature="0"
-       id="path852"
-       d="m 80.260406,-187.70997 c 29.829794,-15.97246 72.912704,-16.39054 101.563634,-2.77273 28.65093,13.61781 54.26488,16.25017 87.64691,3.9402"
-       style="fill:none;stroke:#ff0000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       style="fill:none;stroke:#ff6600;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 80.260406,-198.29331 c 29.829794,-15.97246 72.912704,-16.39054 101.563634,-2.77273 28.65093,13.61781 54.26488,16.25017 87.64691,3.9402"
-       id="path854"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="czc" />
-    <path
-       style="fill:none;stroke:#ff0000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 80.260406,-132.67659 c 29.829794,-15.97246 72.912704,-16.39054 101.563634,-2.77273 28.65093,13.6178 54.26488,16.25016 87.64691,3.9402"
-       id="path856"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="czc" />
-    <path
-       sodipodi:nodetypes="czc"
-       inkscape:connector-curvature="0"
-       id="path858"
-       d="m 80.260406,-122.09326 c 29.829794,-15.97245 72.912704,-16.39053 101.563634,-2.77273 28.65093,13.61781 54.26488,16.25017 87.64691,3.9402"
-       style="fill:none;stroke:#ff6600;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+     transform="translate(-64.585114,225.31389)">
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:0;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect870"
@@ -126,5 +111,86 @@
        height="127.43362"
        x="64.585114"
        y="-225.31389" />
+    <g
+       id="g962">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.36557388px;line-height:1.25;font-family:'Odin Rounded';-inkscape-font-specification:'Odin Rounded';text-align:center;letter-spacing:5.13104534px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.76015484"
+         id="text841"><textPath
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Corpulent Caps BRK';-inkscape-font-specification:'Corpulent Caps BRK';stroke-width:0.76015484"
+           id="textPath843"
+           startOffset="50%"
+           xlink:href="#path32"><tspan
+   id="tspan860"
+   style="fill:#ffcb00;fill-opacity:1">SIGI</tspan><tspan
+   style="fill:#ff2c00;fill-opacity:1"
+   id="tspan830">-</tspan><tspan
+   id="tspan862"
+   style="fill:#ff7c00;fill-opacity:1">SAGA</tspan></textPath></text>
+      <path
+         sodipodi:nodetypes="czc"
+         inkscape:connector-curvature="0"
+         id="path848"
+         d="m 80.260406,-177.12663 c 29.829794,-15.97246 72.912704,-16.39054 101.563634,-2.77273 28.65093,13.61781 54.26488,16.25017 87.64691,3.9402"
+         style="fill:none;stroke:#ff7c00;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:url(#linearGradient874);stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 80.260406,-187.70997 c 29.829794,-15.97246 72.912704,-16.39054 101.563634,-2.77273 28.65093,13.61781 54.26488,16.25017 87.64691,3.9402"
+         id="path852"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="czc" />
+      <path
+         sodipodi:nodetypes="czc"
+         inkscape:connector-curvature="0"
+         id="path854"
+         d="m 80.260406,-198.29331 c 29.829794,-15.97246 72.912704,-16.39054 101.563634,-2.77273 28.65093,13.61781 54.26488,16.25017 87.64691,3.9402"
+         style="fill:none;stroke:#ffcb00;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="czc"
+         inkscape:connector-curvature="0"
+         id="path32"
+         d="m 84.582388,-151.99054 c 31.289122,-15.38873 70.925652,-16.63671 97.241652,-0.3921 26.316,16.24461 67.83667,14.35304 95.67324,0"
+         style="fill:none;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.50236966" />
+      <text
+         id="text848"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.36557388px;line-height:1.25;font-family:'Odin Rounded';-inkscape-font-specification:'Odin Rounded';text-align:center;letter-spacing:5.13104534px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.76015484"
+         xml:space="preserve"><textPath
+           xlink:href="#path32"
+           startOffset="50%"
+           id="textPath846"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Corpulent Caps BRK';-inkscape-font-specification:'Corpulent Caps BRK';stroke-width:0.76015484"><tspan
+   style="fill:#ffcb00;fill-opacity:1"
+   id="tspan840">SIGI</tspan><tspan
+   id="tspan842"
+   style="fill:none;fill-opacity:1">-</tspan><tspan
+   style="fill:#ff7c00;fill-opacity:1"
+   id="tspan844">SAGA</tspan></textPath></text>
+      <text
+         id="text858"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.36557388px;line-height:1.25;font-family:'Odin Rounded';-inkscape-font-specification:'Odin Rounded';text-align:center;letter-spacing:5.13104534px;word-spacing:0px;text-anchor:middle;fill:url(#linearGradient866);fill-opacity:1;stroke:none;stroke-width:0.76015484"
+         xml:space="preserve"><textPath
+           xlink:href="#path32"
+           startOffset="50%"
+           id="textPath856"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Corpulent Caps BRK';-inkscape-font-specification:'Corpulent Caps BRK';fill:url(#linearGradient866);fill-opacity:1;stroke-width:0.76015484">-</textPath></text>
+      <path
+         style="fill:none;stroke:#ff7c00;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 80.260406,-122.09329 c 29.829794,-15.97246 72.912704,-16.39054 101.563634,-2.77273 28.65093,13.61781 54.26488,16.25017 87.64691,3.9402"
+         id="path899"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="czc" />
+      <path
+         style="fill:none;stroke:#ffcb00;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 80.260406,-143.25997 c 29.829794,-15.97246 72.912704,-16.39054 101.563634,-2.77273 28.65093,13.61781 54.26488,16.25017 87.64691,3.9402"
+         id="path903"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="czc" />
+      <path
+         sodipodi:nodetypes="czc"
+         inkscape:connector-curvature="0"
+         id="path939"
+         d="m 80.260406,-132.67659 c 29.829794,-15.97246 72.912704,-16.39054 101.563634,-2.77273 28.65093,13.61781 54.26488,16.25017 87.64691,3.9402"
+         style="fill:none;stroke:url(#linearGradient941);stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
   </g>
 </svg>
