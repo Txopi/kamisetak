@@ -1,0 +1,17 @@
+Lizentzia:
+  CC0 1.0 https://creativecommons.org/publicdomain/zero/1.0/deed.eu
+  Karpeta honetako fitxategi guztiak, bestelakorik adierazi ezean, legeak ahalbidetzen duen neurrian, 'jabari publikoan' lagatzen dira. Berauok kopiatzeko eta zabaltzeko askatasuna duzu, baita lan eratorriak sortu eta berauok nahi duzun eran zabaltzeko ere. Karpeta honetako fitxategiak erabiltzean edo aipatzean ez duzu egiletasunari buruzko aitortzarik egin beharrik.
+
+Egilea:
+  Sasiburu, Barakaldo euskaldunon elkartea http://sasiburu-barakaldo.blogspot.com/
+
+Erabilitako softwareak:
+  Inkscape https://inkscape.org/
+  GIMP https://www.gimp.org/
+
+Erabilitako letra-tipoak:
+  Impact https://packages.debian.org/en/sid/all/ttf-mscorefonts-installer/download
+
+Erabilitako irudiak:
+  (ez dago)
+  
