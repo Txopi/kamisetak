@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1134"
-   height="1700"
-   viewBox="0 0 300.03749 449.79166"
+   width="682.02637"
+   height="728.64856"
+   viewBox="0 0 180.4528 192.78826"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="35-zorginen-bilobak.svg"
+   sodipodi:docname="35-sorginen-bilobak.svg"
    inkscape:export-filename="/home/txopi/Dokumentuak/sasiburu/kamisetak/35-zorginen-bilobak/35-zorginen-bilobak.png"
    inkscape:export-xdpi="199.99763"
    inkscape:export-ydpi="199.99763">
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.31294118"
-     inkscape:cx="314.55639"
-     inkscape:cy="850"
+     inkscape:zoom="0.67477942"
+     inkscape:cx="89.045194"
+     inkscape:cy="370.2134"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -53,7 +53,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -61,16 +61,7 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-24.982666,247.32069)">
-    <rect
-       style="opacity:1;fill:#00e2ff;fill-opacity:0.0027248;stroke:none;stroke-width:3.29384851;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect516"
-       width="180.4528"
-       height="192.78827"
-       x="84.64917"
-       y="-195.68152"
-       inkscape:export-xdpi="199.91031"
-       inkscape:export-ydpi="199.91031" />
+     transform="translate(-84.64917,195.68152)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.29597855px;line-height:0.89999998;font-family:Journal;-inkscape-font-specification:Journal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.73742807"
@@ -78,24 +69,24 @@
        y="-166.36894"
        id="text818"><tspan
          sodipodi:role="line"
-         x="174.66086"
+         x="174.79315"
          y="-166.36894"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Journal;-inkscape-font-specification:Journal;letter-spacing:0px;stroke-width:0.73742807"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Journal;-inkscape-font-specification:Journal;letter-spacing:0.26458332px;stroke-width:0.73742807"
          id="tspan820">hil ez</tspan><tspan
          sodipodi:role="line"
-         x="174.66086"
+         x="174.79315"
          y="-129.20256"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Journal;-inkscape-font-specification:Journal;letter-spacing:0px;stroke-width:0.73742807"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Journal;-inkscape-font-specification:Journal;letter-spacing:0.26458332px;stroke-width:0.73742807"
          id="tspan828">zenituzten</tspan><tspan
          sodipodi:role="line"
-         x="174.66086"
-         y="-92.036194"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Journal;-inkscape-font-specification:Journal;letter-spacing:0px;stroke-width:0.73742807"
-         id="tspan824">zorginen</tspan><tspan
+         x="174.79315"
+         y="-92.036186"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Journal;-inkscape-font-specification:Journal;letter-spacing:0.26458332px;stroke-width:0.73742807"
+         id="tspan824">sorginen</tspan><tspan
          sodipodi:role="line"
-         x="174.66086"
-         y="-54.869808"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Journal;-inkscape-font-specification:Journal;letter-spacing:0px;stroke-width:0.73742807"
+         x="174.79315"
+         y="-54.869804"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Journal;-inkscape-font-specification:Journal;letter-spacing:0.26458332px;stroke-width:0.73742807"
          id="tspan826">bilobak gara</tspan></text>
     <g
        id="g850"
